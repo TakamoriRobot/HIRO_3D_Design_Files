@@ -15,3 +15,8 @@ This folder has the .STEP files .STLs for the H.I.R.O. Model TR-01-A Robotics De
 H.I.R.O. GenZero is our answer to "We have H.I.R.O. at home. H.I.R.O. GenZero is 100% DIY H.I.R.O. unit that you can 3D print at home and assemble using off the shelf parts. 
 
 <img src="imgs/HIRO GenZero.jpg">
+
+
+
+
+Reference 3D models for off-the-shelf components (Raspberry Pi Pico, standard servos) included in the STEP assembly are for spatial reference and assembly preview purposes only. Original CAD sources retained by their respective creators/vendors.
