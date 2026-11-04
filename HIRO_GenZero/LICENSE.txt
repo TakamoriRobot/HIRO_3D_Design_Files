@@ -1,0 +1,35 @@
+==============================================================================
+H.I.R.O. 3D CHASSIS & MECHANICAL DESIGNS LICENSE
+==============================================================================
+
+Copyright (c) 2026 Takamori Robot USA LLC
+
+All 3D CAD models (.STEP), surface meshes (.STL), 3D printable files, mechanical 
+blueprints, and physical assembly designs contained in this repository are 
+licensed under the Creative Commons Attribution-NonCommercial 4.0 International 
+(CC BY-NC 4.0) License.
+
+------------------------------------------------------------------------------
+YOUR RIGHTS UNDER THIS LICENSE:
+------------------------------------------------------------------------------
+  * Share: You are free to copy and redistribute these 3D CAD files in any 
+    medium or format.
+  * Adapt: You are free to remix, transform, modify, and build upon these 3D 
+    geometries for personal, academic, research, and non-commercial projects.
+
+------------------------------------------------------------------------------
+TERMS AND RESTRICTIONS:
+------------------------------------------------------------------------------
+  * Attribution: You must give appropriate credit to H.I.R.O. Robotics, 
+    provide a link to the license, and indicate if changes were made.
+  * NonCommercial: You may NOT use these 3D files, modified derivatives, or 
+    physical parts printed/manufactured from these files for commercial 
+    purposes, physical kit resale, or bundled commercial products.
+
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+------------------------------------------------------------------------------
+COMMERCIAL LICENSING & INQUIRIES
+------------------------------------------------------------------------------
+To request a commercial production license, manufacturing authorization, or 
+enterprise access, please contact Takamori Robot USA LLC at: outreach@takamorirobot.com
